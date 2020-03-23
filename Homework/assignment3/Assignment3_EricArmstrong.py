@@ -2,8 +2,6 @@
 @author: Eric Armstrong
 """
 
-# got lots of help from Zachary Combs on this, some of this code is his
-
 # import the necessary packages
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import LabelEncoder
